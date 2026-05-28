@@ -185,6 +185,7 @@ console.log(
 <meta property="og:image" content="https://cucumoyang-cungkok.pages.dev/anekuan/TERBUKTI.png">
 <meta property="og:description" content="LANDAKTOTO merupakan platform slot online server Thailand resmi terpercaya 2026 yang menawarkan permainan gacor dengan peluang maxwin lebih tinggi. Didukung sistem modern, deposit cepat, dan akses stabil untuk pengalaman bermain terbaik setiap hari.">
 <meta property="og:url" content="https://mpp.utem.edu.my/">
+<meta name="google-site-verification" content="o-FpgIPO01LGqnknB4IQbRDaznxzNYFvTYAxepT5H2A" />
     <meta property="product:price:amount" content="5000">
     <meta property="product:price:currency" content="IDR">
 <script type="text/javascript" id="klevu_initsessiondata">
