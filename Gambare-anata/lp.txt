@@ -32,7 +32,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="https://cucumoyang-cungkok.pages.dev/anekuan/pangsit.png">
     <link rel="manifest" href="https://assets.bonanza.com/site.webmanifest">
     <link rel="mask-icon" href="https://assets.bonanza.com/safari-pinned-tab.svg" color="#335749">
-    <link rel="canonical" href="$$##">
+    <link rel="canonical" href="https://nscpolteksby.ac.id/akuntansi/">
     <link rel="amphtml" href="https://cucumoyang-cungkok.pages.dev/Gambare-anata/amp"/>
     <link rel="alternate" href="https://cucumoyang-cungkok.pages.dev/Gambare-anata/amp" hreflang="ja">
     <link rel="alternate" href="https://cucumoyang-cungkok.pages.dev/Gambare-anata/amp" hreflang="en">
@@ -59,7 +59,7 @@
     <meta name="csrf-param" content="authenticity_token">
     <meta name="csrf-token" content="u2MVIfvMz6EKb5CvmTx3BcW/S8mLA6GcoUAzm8N5fo2YB1RNvzn/RB4KobwBZ/NFWe9dbzPgu2hLjGtRSTKVDg==">
     <meta name="robots" content="follow">
-    <meta itemprop="url" content="$$##">
+    <meta itemprop="url" content="https://nscpolteksby.ac.id/akuntansi/">
     <meta itemprop="quantity" content="1">
     <meta itemprop="availability" content="in_stock">
     <meta itemprop="identifier" content="upc:740813708945">
@@ -67,7 +67,7 @@
     <meta property="og:type" content="product">
     <meta property="og:site_name" content="LANDAKTOTO">
     <meta property="og:title" content="LANDAKTOTO ⚡ AGEN RESMI SLOT GACOR SERVER THAILAND & LOGIN SLOT777 RESMI GACOR ANTI RUNGKAD HARI INI">
-    <meta property="og:url" content="$$##">
+    <meta property="og:url" content="https://nscpolteksby.ac.id/akuntansi/">
     <meta property="og:price:currency" content="USD">
     <meta property="og:availability" content="instock">
     <meta property="og:image" content="https://cucumoyang-cungkok.pages.dev/anekuan/lndk.png">
@@ -78,7 +78,7 @@
     <meta property="product:retailer_item_id" content="1790588054">
     <meta property="product:condition" content="New">
     <meta property="product:brand" content="LANDAKTOTO">
-    <meta property="wanelo:store:url" content="$$##">
+    <meta property="wanelo:store:url" content="https://nscpolteksby.ac.id/akuntansi/">
     <meta property="wanelo:store:name" content="LANDAKTOTO">
     <meta name="twitter:card" content="product">
     <meta name="twitter:site" content="@LANDAKTOTO">
@@ -90,7 +90,7 @@
     <meta name="twitter:data2" content="Contemporary Manufacture">
     <meta name="twitter:label2" content="CATEGORY">
     <meta name="twitter:domain" content="bonanza.com">
-    <link rel="search" type="application/opensearchdescription+xml" title="Bonanza: Search Items" href="$$##opensearch.xml">
+    <link rel="search" type="application/opensearchdescription+xml" title="Bonanza: Search Items" href="https://nscpolteksby.ac.id/akuntansi/opensearch.xml">
     <link rel="stylesheet" media="screen, print" href="https://assets.bonanza.com/assets/global_css-9af8c792c4b0065d1f1c9f59df4bd543.gz.css">
     <link rel="stylesheet" media="screen, print" href="https://assets.bonanza.com/assets/items_css-d5a50cdd4e0d004e14d94a293c60dd04.gz.css">
     <link rel="stylesheet" media="screen, print" href="https://assets.bonanza.com/assets/items_buy_css-47ccbb99d1ca186442571b94e8631899.gz.css">
@@ -114,7 +114,7 @@
   "sku": "PST-4D-2026",
   "offers": {
     "@type": "Offer",
-    "url": "$$##",
+    "url": "https://nscpolteksby.ac.id/akuntansi/",
     "priceCurrency": "IDR",
     "price": "10000",
     "availability": "https://schema.org/InStock"
@@ -135,32 +135,32 @@
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "$$###website",
-      "url": "$$##",
+      "@id": "https://nscpolteksby.ac.id/akuntansi/#website",
+      "url": "https://nscpolteksby.ac.id/akuntansi/",
       "name": "LANDAKTOTO",
       "description": "LANDAKTOTO hadir sebagai agen resmi slot gacor server Thailand & login Slot777 resmi gacor anti rungkad hari ini dengan akses cepat, sistem modern, dan pengalaman bermain yang lebih nyaman. Nikmati berbagai pilihan permainan populer dengan performa stabil, akses mudah, serta layanan profesional yang siap memberikan pengalaman terbaik bagi pecinta slot online. LANDAKTOTO menjadi pilihan tepat untuk Anda yang mencari platform slot gacor terpercaya dengan akses aman, cepat, dan peluang hiburan maksimal setiap hari.",
       "inLanguage": "id-ID",
       "publisher": {
-        "@id": "$$###organization"
+        "@id": "https://nscpolteksby.ac.id/akuntansi/#organization"
       },
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "$$##?s={search_term_string}",
+        "target": "https://nscpolteksby.ac.id/akuntansi/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "WebPage",
-      "@id": "$$###webpage",
-      "url": "$$##",
+      "@id": "https://nscpolteksby.ac.id/akuntansi/#webpage",
+      "url": "https://nscpolteksby.ac.id/akuntansi/",
       "name": "LANDAKTOTO ⚡ AGEN RESMI SLOT GACOR SERVER THAILAND & LOGIN SLOT777 RESMI GACOR ANTI RUNGKAD HARI INI",
       "isPartOf": {
-        "@id": "$$###website"
+        "@id": "https://nscpolteksby.ac.id/akuntansi/#website"
       },
       "description": "LANDAKTOTO hadir sebagai agen resmi slot gacor server Thailand & login Slot777 resmi gacor anti rungkad hari ini dengan akses cepat, sistem modern, dan pengalaman bermain yang lebih nyaman. Nikmati berbagai pilihan permainan populer dengan performa stabil, akses mudah, serta layanan profesional yang siap memberikan pengalaman terbaik bagi pecinta slot online. LANDAKTOTO menjadi pilihan tepat untuk Anda yang mencari platform slot gacor terpercaya dengan akses aman, cepat, dan peluang hiburan maksimal setiap hari.",
       "inLanguage": "id-ID",
       "breadcrumb": {
-        "@id": "$$###breadcrumb"
+        "@id": "https://nscpolteksby.ac.id/akuntansi/#breadcrumb"
       }
     }
   ]
@@ -171,9 +171,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "$$###organization",
+  "@id": "https://nscpolteksby.ac.id/akuntansi/#organization",
   "name": "LANDAKTOTO ⚡ AGEN RESMI SLOT GACOR SERVER THAILAND & LOGIN SLOT777 RESMI GACOR ANTI RUNGKAD HARI INI",
-  "url": "$$##",
+  "url": "https://nscpolteksby.ac.id/akuntansi/",
   "logo": {
     "@type": "ImageObject",
     "url": "https://cdn.gambarbersama.com/landak/bannerlp/logolandaktoto.webp"
@@ -191,37 +191,37 @@
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
-  "@id": "$$###breadcrumb",
+  "@id": "https://nscpolteksby.ac.id/akuntansi/#breadcrumb",
   "itemListElement": [
     {
       "@type": "ListItem",
       "position": 1,
       "name": "LANDAKTOTO",
-      "item": "$$##"
+      "item": "https://nscpolteksby.ac.id/akuntansi/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SLOT GACOR",
-      "item": "$$##"
+      "item": "https://nscpolteksby.ac.id/akuntansi/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SLOT GACOR 2026",
-      "item": "$$##"
+      "item": "https://nscpolteksby.ac.id/akuntansi/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SLOT THAILAND",
-      "item": "$$##"
+      "item": "https://nscpolteksby.ac.id/akuntansi/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "LANDAKTOTO ⚡ AGEN RESMI SLOT GACOR SERVER THAILAND & LOGIN SLOT777 RESMI GACOR ANTI RUNGKAD HARI INI",
-      "item": "$$##"
+      "item": "https://nscpolteksby.ac.id/akuntansi/"
     }
   ]
 }
@@ -864,7 +864,7 @@
         "SKU": null,
         "Categories": ["Toys \u0026 Hobbies", "Diecast \u0026 Toy Vehicles", "Cars, Trucks \u0026 Vans", "Contemporary Manufacture"],
         "ImageURL": "https://cucumoyang-cungkok.pages.dev/anekuan/lndk.png",
-        "URL": "$$##",
+        "URL": "https://nscpolteksby.ac.id/akuntansi/",
         "Brand": "LANDAKTOTO",
         "Price": 10.88
       };
@@ -874,7 +874,7 @@
         "ItemId": "1790588054",
         "Categories": ["Toys \u0026 Hobbies", "Diecast \u0026 Toy Vehicles", "Cars, Trucks \u0026 Vans", "Contemporary Manufacture"],
         "ImageUrl": "https://cucumoyang-cungkok.pages.dev/anekuan/lndk.png",
-        "Url": "$$##",
+        "Url": "https://nscpolteksby.ac.id/akuntansi/",
         "Metadata": {
           "Brand": "LANDAKTOTO",
           "Price": 10.88
@@ -1053,7 +1053,7 @@
         <div class="wrapper" bis_skin_checked="1">
           <ul class="header_top_level_menu">
             <li class="womens_fashion header_top_level_menu_item has_children" data-asw-org-font-size="13" style="font-size: 13px;">
-              <a data-short-name="LANDAKTOTO" href="$$##" data-asw-org-font-size="13" style="font-size: 13px;">LANDAKTOTO</a>
+              <a data-short-name="LANDAKTOTO" href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="13" style="font-size: 13px;">LANDAKTOTO</a>
               <div class="header_subnav_menu with_hero_image" bis_skin_checked="1">
                 <div class="col" bis_skin_checked="1">
                   <div class="section" bis_skin_checked="1">
@@ -1087,7 +1087,7 @@
                       </li>
                     </ul>
                   </div>
-                  <a class="header_subnav_menu_button" href="$$##" data-asw-org-font-size="13" style="font-size: 13px;">Shop all Fashion</a>
+                  <a class="header_subnav_menu_button" href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="13" style="font-size: 13px;">Shop all Fashion</a>
                 </div>
                 <div class="col" bis_skin_checked="1">
                   <div class="section" bis_skin_checked="1">
@@ -1129,7 +1129,7 @@
               </div>
             </li>
             <li class="mens_fashion header_top_level_menu_item has_children" data-asw-org-font-size="13" style="font-size: 13px;">
-              <a data-short-name="SITUS_TOTO" href="$$##" data-asw-org-font-size="13" style="font-size: 13px;">SLOT GACOR</a>
+              <a data-short-name="SITUS_TOTO" href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="13" style="font-size: 13px;">SLOT GACOR</a>
               <div class="header_subnav_menu with_hero_image" bis_skin_checked="1">
                 <div class="col" bis_skin_checked="1">
                   <div class="section" bis_skin_checked="1">
@@ -1165,7 +1165,7 @@
                       </li>
                     </ul>
                   </div>
-                  <a class="header_subnav_menu_button" href="$$##" data-asw-org-font-size="13" style="font-size: 13px;">Shop all Fashion</a>
+                  <a class="header_subnav_menu_button" href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="13" style="font-size: 13px;">Shop all Fashion</a>
                 </div>
                 <div class="col" bis_skin_checked="1">
                   <div class="section" bis_skin_checked="1">
@@ -1204,7 +1204,7 @@
               </div>
             </li>
             <li class="home_and_garden header_top_level_menu_item has_children" data-asw-org-font-size="13" style="font-size: 13px;">
-              <a data-short-name="LANDAKTOTO" href="$$##" data-asw-org-font-size="13" style="font-size: 13px;">SLOT GACOR 2026</a>
+              <a data-short-name="LANDAKTOTO" href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="13" style="font-size: 13px;">SLOT GACOR 2026</a>
               <div class="header_subnav_menu with_hero_image" bis_skin_checked="1">
                 <div class="col" bis_skin_checked="1">
                   <div class="section" bis_skin_checked="1">
@@ -1236,7 +1236,7 @@
                       </li>
                     </ul>
                   </div>
-                  <a class="header_subnav_menu_button" href="$$##" data-asw-org-font-size="13" style="font-size: 13px;">Shop all Home &amp; Garden</a>
+                  <a class="header_subnav_menu_button" href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="13" style="font-size: 13px;">Shop all Home &amp; Garden</a>
                 </div>
                 <div class="col" bis_skin_checked="1">
                   <div class="section" bis_skin_checked="1">
@@ -1272,7 +1272,7 @@
               </div>
             </li>
             <li class="health_and_beauty header_top_level_menu_item has_children" data-asw-org-font-size="13" style="font-size: 13px;">
-              <a data-short-name="SITUS_TOTO_LOGIN" href="$$##" data-asw-org-font-size="13" style="font-size: 13px;">SLOT777</a>
+              <a data-short-name="SITUS_TOTO_LOGIN" href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="13" style="font-size: 13px;">SLOT777</a>
               <div class="header_subnav_menu with_hero_image" bis_skin_checked="1">
                 <div class="col" bis_skin_checked="1">
                   <div class="section" bis_skin_checked="1">
@@ -1307,7 +1307,7 @@
                       </li>
                     </ul>
                   </div>
-                  <a class="header_subnav_menu_button" href="$$##" data-asw-org-font-size="13" style="font-size: 13px;">Shop all Health &amp; Beauty</a>
+                  <a class="header_subnav_menu_button" href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="13" style="font-size: 13px;">Shop all Health &amp; Beauty</a>
                 </div>
                 <div class="col" bis_skin_checked="1">
                   <div class="section" bis_skin_checked="1">
@@ -1346,7 +1346,7 @@
               </div>
             </li>
             <li class="collectibles header_top_level_menu_item has_children" data-asw-org-font-size="13" style="font-size: 13px;">
-              <a data-short-name="SITUS_TOTO_4D" href="$$##" data-asw-org-font-size="13" style="font-size: 13px;">SLOT THAILAND</a>
+              <a data-short-name="SITUS_TOTO_4D" href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="13" style="font-size: 13px;">SLOT THAILAND</a>
               <div class="header_subnav_menu with_hero_image single_column" bis_skin_checked="1">
                 <div class="col" bis_skin_checked="1">
                   <div class="section" bis_skin_checked="1">
@@ -1356,7 +1356,7 @@
                         <a href="/art" data-asw-org-font-size="14" style="font-size: 14px;">Art</a>
                       </li>
                       <li class="header_secondary_level_menu_item" data-asw-org-font-size="14" style="font-size: 14px;">
-                        <a href="$$##" data-asw-org-font-size="14" style="font-size: 14px;">Collectibles</a>
+                        <a href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="14" style="font-size: 14px;">Collectibles</a>
                       </li>
                       <li class="header_secondary_level_menu_item" data-asw-org-font-size="14" style="font-size: 14px;">
                         <a href="/antiques" data-asw-org-font-size="14" style="font-size: 14px;">Antiques</a>
@@ -1381,7 +1381,7 @@
                       </li>
                     </ul>
                   </div>
-                  <a class="header_subnav_menu_button" href="$$##" data-asw-org-font-size="13" style="font-size: 13px;">Shop all Collectibles</a>
+                  <a class="header_subnav_menu_button" href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="13" style="font-size: 13px;">Shop all Collectibles</a>
                 </div>
               </div>
             </li>
@@ -1611,7 +1611,7 @@
           </div>
           <div class="menu_section_content" bis_skin_checked="1">
             <div class="menu_section_expandable_link" data-category-name="womens_fashion" bis_skin_checked="1">
-              <a href="$$##" data-asw-org-font-size="14" style="font-size: 14px;">Women's Fashion</a>
+              <a href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="14" style="font-size: 14px;">Women's Fashion</a>
               <div class="expansion_toggle_container" bis_skin_checked="1">
                 <div class="expansion_toggle closed" bis_skin_checked="1">
                   <i class="fa fa-angle-right inline_icon"></i>
@@ -1690,7 +1690,7 @@
               </div>
             </div>
             <div class="menu_section_expandable_link" data-category-name="mens_fashion" bis_skin_checked="1">
-              <a href="$$##" data-asw-org-font-size="14" style="font-size: 14px;">Men's Fashion</a>
+              <a href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="14" style="font-size: 14px;">Men's Fashion</a>
               <div class="expansion_toggle_container" bis_skin_checked="1">
                 <div class="expansion_toggle closed" bis_skin_checked="1">
                   <i class="fa fa-angle-right inline_icon"></i>
@@ -1766,7 +1766,7 @@
               </div>
             </div>
             <div class="menu_section_expandable_link" data-category-name="home_and_garden" bis_skin_checked="1">
-              <a href="$$##" data-asw-org-font-size="14" style="font-size: 14px;">Home &amp; Garden</a>
+              <a href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="14" style="font-size: 14px;">Home &amp; Garden</a>
               <div class="expansion_toggle_container" bis_skin_checked="1">
                 <div class="expansion_toggle closed" bis_skin_checked="1">
                   <i class="fa fa-angle-right inline_icon"></i>
@@ -1837,7 +1837,7 @@
               </div>
             </div>
             <div class="menu_section_expandable_link" data-category-name="health_and_beauty" bis_skin_checked="1">
-              <a href="$$##" data-asw-org-font-size="14" style="font-size: 14px;">Health &amp; Beauty</a>
+              <a href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="14" style="font-size: 14px;">Health &amp; Beauty</a>
               <div class="expansion_toggle_container" bis_skin_checked="1">
                 <div class="expansion_toggle closed" bis_skin_checked="1">
                   <i class="fa fa-angle-right inline_icon"></i>
@@ -1914,7 +1914,7 @@
               </div>
             </div>
             <div class="menu_section_expandable_link" data-category-name="collectibles" bis_skin_checked="1">
-              <a href="$$##" data-asw-org-font-size="14" style="font-size: 14px;">Collectibles &amp; Art</a>
+              <a href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="14" style="font-size: 14px;">Collectibles &amp; Art</a>
               <div class="expansion_toggle_container" bis_skin_checked="1">
                 <div class="expansion_toggle closed" bis_skin_checked="1">
                   <i class="fa fa-angle-right inline_icon"></i>
@@ -1932,7 +1932,7 @@
                     <a href="/art" data-asw-org-font-size="14" style="font-size: 14px;">Art</a>
                   </li>
                   <li class="expandable_submenu_list_item" data-asw-org-font-size="14" style="font-size: 14px;">
-                    <a href="$$##" data-asw-org-font-size="14" style="font-size: 14px;">Collectibles</a>
+                    <a href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="14" style="font-size: 14px;">Collectibles</a>
                   </li>
                   <li class="expandable_submenu_list_item" data-asw-org-font-size="14" style="font-size: 14px;">
                     <a href="/antiques" data-asw-org-font-size="14" style="font-size: 14px;">Antiques</a>
@@ -2439,7 +2439,7 @@
 </h2><div class="item_status_and_price_container" bis_skin_checked="1">
 
 <div class="item_status_and_price_content" itemprop="offers" itemtype="https://schema.org/Offer" itemscope="" bis_skin_checked="1"><div class="item_price" bis_skin_checked="1"> $10.88 </div><div style="font-size: 14px; color: #777" bis_skin_checked="1"> (It may be possible to pay only $7.88 instead of $10.88 when you use your <strong>bCredits</strong> at checkout) </div>
-<link itemprop="url" href="$$##">
+<link itemprop="url" href="https://nscpolteksby.ac.id/akuntansi/">
 <meta itemprop="availability" content="https://schema.org/LimitedAvailability">
 <meta itemprop="price" content="10.88">
 <meta itemprop="priceCurrency" content="USD"><div itemprop="shippingDetails" itemtype="https://schema.org/OfferShippingDetails" itemscope="" bis_skin_checked="1"><div itemprop="shippingRate" itemtype="https://schema.org/MonetaryAmount" itemscope="" bis_skin_checked="1">
@@ -2463,7 +2463,7 @@
 <div class="html_description_container" bis_skin_checked="1"><div class="html_description" bis_skin_checked="1"></div><h3 data-start="1181" data-end="1230">
 <h1>LANDAKTOTO ⚡ AGEN RESMI SLOT GACOR SERVER THAILAND & LOGIN SLOT777 RESMI GACOR ANTI RUNGKAD HARI INI</h1>
 <p style="text-align: justify;">
-Di tengah perkembangan platform digital modern, <a href="$$##" title="LANDAKTOTO"><strong>LANDAKTOTO</strong></a> hadir sebagai pilihan populer bagi pecinta permainan online dengan menghadirkan konsep AGEN RESMI SLOT GACOR SERVER THAILAND & LOGIN SLOT777 RESMI GACOR ANTI RUNGKAD HARI INI. Dengan sistem yang responsif, akses cepat, serta tampilan modern yang mudah digunakan, LANDAKTOTO menjadi salah satu platform yang banyak dicari oleh pengguna yang mengutamakan kenyamanan dan pengalaman bermain yang lebih praktis setiap hari.
+Di tengah perkembangan platform digital modern, <a href="https://nscpolteksby.ac.id/akuntansi/" title="LANDAKTOTO"><strong>LANDAKTOTO</strong></a> hadir sebagai pilihan populer bagi pecinta permainan online dengan menghadirkan konsep AGEN RESMI SLOT GACOR SERVER THAILAND & LOGIN SLOT777 RESMI GACOR ANTI RUNGKAD HARI INI. Dengan sistem yang responsif, akses cepat, serta tampilan modern yang mudah digunakan, LANDAKTOTO menjadi salah satu platform yang banyak dicari oleh pengguna yang mengutamakan kenyamanan dan pengalaman bermain yang lebih praktis setiap hari.
 </p>
 
 <p style="text-align: justify;">
@@ -2479,10 +2479,10 @@ Selain menghadirkan konsep AGEN RESMI SLOT GACOR SERVER THAILAND & LOGIN SLOT777
 </p>
 
 <p style="text-align: justify;">
-Dengan kombinasi akses cepat, login mudah, tampilan premium, serta dukungan layanan online yang responsif, <a href="$$##" title="LANDAKTOTO"><strong>LANDAKTOTO</strong></a> berhasil menjadi salah satu nama yang banyak diperbincangkan di kalangan pengguna platform digital modern. Komitmen dalam menghadirkan layanan berkualitas menjadikan LANDAKTOTO sebagai pilihan menarik bagi mereka yang mencari platform online dengan kenyamanan akses dan pengalaman yang lebih maksimal setiap harinya.
+Dengan kombinasi akses cepat, login mudah, tampilan premium, serta dukungan layanan online yang responsif, <a href="https://nscpolteksby.ac.id/akuntansi/" title="LANDAKTOTO"><strong>LANDAKTOTO</strong></a> berhasil menjadi salah satu nama yang banyak diperbincangkan di kalangan pengguna platform digital modern. Komitmen dalam menghadirkan layanan berkualitas menjadikan LANDAKTOTO sebagai pilihan menarik bagi mereka yang mencari platform online dengan kenyamanan akses dan pengalaman yang lebih maksimal setiap harinya.
 </p>
 
-<p><b>Sumber Website Resmi :</b> <a href="$$##" target="_blank">LANDAKTOTO</a></p>
+<p><b>Sumber Website Resmi :</b> <a href="https://nscpolteksby.ac.id/akuntansi/" target="_blank">LANDAKTOTO</a></p>
 <div class="faq-section">
 <h2>FAQ (Frequently Asked Questions)</h2>
 
@@ -2525,7 +2525,7 @@ Dengan kombinasi akses cepat, login mudah, tampilan premium, serta dukungan laya
 </div>
               </div>
             </div>
-          </div><div id="email_form" class="new_email_form_container popup_container ask_seller_a_question_popup jqm-init" bis_skin_checked="1"><a class="popup_close_control" href="#" onclick="BONZ.Application.hideAllPopups();; return false;" onkeypress="BONZ.Application.hideAllPopups();; return false;" data-asw-org-font-size="14" style="font-size: 14px;"><img alt="Close popup" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a><div class="new_email_form ask_seller_a_question_form" bis_skin_checked="1"><div class="email_explanation explanation_message small_message" style="display: none;" bis_skin_checked="1"></div><div class="loading" bis_skin_checked="1"><i class="fa fa-spinner inline_icon fa-pulse fa-3x"></i></div><form class="new_email" action="/emails" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="u2MVIfvMz6EKb5CvmTx3BcW/S8mLA6GcoUAzm8N5fo2YB1RNvzn/RB4KobwBZ/NFWe9dbzPgu2hLjGtRSTKVDg=="><fieldset class="email_form_fieldset"><legend class="email_title">Contact the seller about this item</legend><input value="Somebody emailed you about your &quot;LANDAKTOTO ⚡ AGEN RESMI SLOT GACOR SERVER THAILAND & LOGIN SLOT777 RESMI GACOR ANTI RUNGKAD HARI INI&quot;!" type="hidden" name="email[subject]"><input value="40526303" type="hidden" name="email[receiver_id]"><input value="1790588054" type="hidden" name="email[item_id]"><textarea rows="10" placeholder="Write your message here" aria-label="Write your message here" name="email[body]"></textarea><div class="togglable" bis_skin_checked="1"><ul class="emoji_picker"><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😃</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😀</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😆</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😍</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😉</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😛</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😞</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😮</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😎</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😇</li><li class="emoji_button bonus" data-asw-org-font-size="24" style="font-size: 24px;">😺</li></ul></div><div class="submit_container" bis_skin_checked="1"><input type="hidden" name="email_source" value="7"><input type="submit" name="commit" value="Send Your Message" class="email_send_button" data-disable-with="Send Your Message"><a class="email_cancel_button" href="$$##" data-asw-org-font-size="13" style="font-size: 13px;">Cancel</a></div></fieldset></form></div></div><div id="add_to_wishlist_popup" class="popup_container new_email_form_container jqm-init" bis_skin_checked="1"><a class="popup_close_control" href="#" onclick="$('#add_to_wishlist_popup').jqmHide();; return false;" onkeypress="$('#add_to_wishlist_popup').jqmHide();; return false;" data-asw-org-font-size="14" style="font-size: 14px;"><img alt="Close popup" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a><h2 class="add_to_wishlist_popup_header" data-asw-org-font-size="24" style="font-size: 24px;"><i class="fa fa-star inline_icon"></i><span class="inline_icon_text" data-asw-org-font-size="24" style="font-size: 24px;">Added to your <a href="/people/wish_list" data-asw-org-font-size="24" style="font-size: 24px;">wish list</a>!</span></h2><div class="email_container" bis_skin_checked="1"><div class="item" bis_skin_checked="1"><div class="item_image_container" bis_skin_checked="1"><img title="" class="item_image" onerror="BONZ.handleBrokenImage(this, 1790588054, 'https://cucumoyang-cungkok.pages.dev/anekuan/lndk.png')" alt="" src="https://images-bucket.bonanzastatic.com/afu/images/53b4/b387/4406_15995606634/s-l960_thumb155_crop.jpg"></div><ul class="item_info_list"><li class="title" data-asw-org-font-size="14" style="font-size: 14px;"><a href="$$##" data-asw-org-font-size="14" style="font-size: 14px;">LANDAKTOTO ⚡ AGEN RESMI SLOT GACOR SERVER THAILAND & LOGIN SLOT777 RESMI GACOR ANTI RUNGKAD HARI INI</a></li><li data-asw-org-font-size="14" style="font-size: 14px;">1 in stock</li><li data-asw-org-font-size="14" style="font-size: 14px;">Price negotiable</li><li class="item_action_buttons" data-asw-org-font-size="14" style="font-size: 14px;"><a class="button_medium" href="/items/buy_now/1790588054" data-asw-org-font-size="13" style="font-size: 13px;">Make an offer</a></li></ul></div><div class="new_email_form ask_seller_a_question_form" bis_skin_checked="1"><div class="email_explanation explanation_message small_message" style="display: none;" bis_skin_checked="1"></div><div class="loading" bis_skin_checked="1"><i class="fa fa-spinner inline_icon fa-pulse fa-3x"></i></div><form class="new_email" action="/emails" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="u2MVIfvMz6EKb5CvmTx3BcW/S8mLA6GcoUAzm8N5fo2YB1RNvzn/RB4KobwBZ/NFWe9dbzPgu2hLjGtRSTKVDg=="><fieldset class="email_form_fieldset"><legend class="email_title">Contact the seller</legend><input value="Somebody emailed you about your &quot;LANDAKTOTO ⚡ AGEN RESMI SLOT GACOR SERVER THAILAND & LOGIN SLOT777 RESMI GACOR ANTI RUNGKAD HARI INI&quot;!" type="hidden" name="email[subject]"><input value="40526303" type="hidden" name="email[receiver_id]"><input value="1790588054" type="hidden" name="email[item_id]"><textarea rows="10" placeholder="Write your message here" aria-label="Write your message here" name="email[body]"></textarea><div class="togglable" bis_skin_checked="1"><ul class="emoji_picker"><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😃</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😀</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😆</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😍</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😉</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😛</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😞</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😮</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😎</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😇</li><li class="emoji_button bonus" data-asw-org-font-size="24" style="font-size: 24px;">😺</li></ul></div><div class="submit_container" bis_skin_checked="1"><input type="hidden" name="email_source" value="7"><input type="submit" name="commit" value="Send Your Message" class="email_send_button" data-disable-with="Send Your Message"></div></fieldset></form></div></div></div><div class="remind_me_later_form responsive_popup_container jqm-init" bis_skin_checked="1"><div class="popup_inner" bis_skin_checked="1"><a class="popup_close_control" href="javascript:void(0)" data-asw-org-font-size="14" style="font-size: 14px;"><img alt="Close popup" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a><h2 data-asw-org-font-size="24" style="font-size: 24px;">Get an item reminder</h2><p class="reminder_explanation" data-asw-org-font-size="14" style="font-size: 14px;"> We'll email you a link to your item now and follow up with a single reminder (if you'd like one). That's it! No spam, no hassle. </p><form action="/items/tag_as_remind_me_later/1790588054" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="u2MVIfvMz6EKb5CvmTx3BcW/S8mLA6GcoUAzm8N5fo2YB1RNvzn/RB4KobwBZ/NFWe9dbzPgu2hLjGtRSTKVDg=="><label for="remind_me_later_email_address">Your email address:</label><input class="validate[required,custom[email]] email_input" type="email" name="remind_me_later[email_address]" id="remind_me_later_email_address"><div class="reminder_delay_options" bis_skin_checked="1"><fieldset><legend>When would you like a reminder?</legend><input type="radio" value="1" name="remind_me_later[delay_interval]" id="remind_me_later_delay_interval_1"><label for="remind_me_later_delay_interval_1">1 day</label><input type="radio" value="3" checked="checked" name="remind_me_later[delay_interval]" id="remind_me_later_delay_interval_3"><label for="remind_me_later_delay_interval_3">3 days</label><input type="radio" value="7" name="remind_me_later[delay_interval]" id="remind_me_later_delay_interval_7"><label for="remind_me_later_delay_interval_7">7 days</label><input type="radio" value="0" name="remind_me_later[delay_interval]" id="remind_me_later_delay_interval_0"><label for="remind_me_later_delay_interval_0">never</label></fieldset></div><div class="reminder_email_confirm hidden" bis_skin_checked="1"><em id="reminder_email_confirm_label">Please make sure your email address is correct so we can get in touch with you.</em><input type="text" disabled="disabled" class="email_confirm_display" aria-labelledby="reminder_email_confirm_label"></div><button name="button" type="submit" class="reminder_submit">Create your item reminder</button></form><div class="reminder_sign_in" bis_skin_checked="1"> Already have an account? <a href="/items/sign_in_and_add_to_wishlist/1790588054" data-asw-org-font-size="14" style="font-size: 14px;">Log in and add this item to your wish list.</a></div></div></div>
+          </div><div id="email_form" class="new_email_form_container popup_container ask_seller_a_question_popup jqm-init" bis_skin_checked="1"><a class="popup_close_control" href="#" onclick="BONZ.Application.hideAllPopups();; return false;" onkeypress="BONZ.Application.hideAllPopups();; return false;" data-asw-org-font-size="14" style="font-size: 14px;"><img alt="Close popup" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a><div class="new_email_form ask_seller_a_question_form" bis_skin_checked="1"><div class="email_explanation explanation_message small_message" style="display: none;" bis_skin_checked="1"></div><div class="loading" bis_skin_checked="1"><i class="fa fa-spinner inline_icon fa-pulse fa-3x"></i></div><form class="new_email" action="/emails" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="u2MVIfvMz6EKb5CvmTx3BcW/S8mLA6GcoUAzm8N5fo2YB1RNvzn/RB4KobwBZ/NFWe9dbzPgu2hLjGtRSTKVDg=="><fieldset class="email_form_fieldset"><legend class="email_title">Contact the seller about this item</legend><input value="Somebody emailed you about your &quot;LANDAKTOTO ⚡ AGEN RESMI SLOT GACOR SERVER THAILAND & LOGIN SLOT777 RESMI GACOR ANTI RUNGKAD HARI INI&quot;!" type="hidden" name="email[subject]"><input value="40526303" type="hidden" name="email[receiver_id]"><input value="1790588054" type="hidden" name="email[item_id]"><textarea rows="10" placeholder="Write your message here" aria-label="Write your message here" name="email[body]"></textarea><div class="togglable" bis_skin_checked="1"><ul class="emoji_picker"><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😃</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😀</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😆</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😍</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😉</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😛</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😞</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😮</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😎</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😇</li><li class="emoji_button bonus" data-asw-org-font-size="24" style="font-size: 24px;">😺</li></ul></div><div class="submit_container" bis_skin_checked="1"><input type="hidden" name="email_source" value="7"><input type="submit" name="commit" value="Send Your Message" class="email_send_button" data-disable-with="Send Your Message"><a class="email_cancel_button" href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="13" style="font-size: 13px;">Cancel</a></div></fieldset></form></div></div><div id="add_to_wishlist_popup" class="popup_container new_email_form_container jqm-init" bis_skin_checked="1"><a class="popup_close_control" href="#" onclick="$('#add_to_wishlist_popup').jqmHide();; return false;" onkeypress="$('#add_to_wishlist_popup').jqmHide();; return false;" data-asw-org-font-size="14" style="font-size: 14px;"><img alt="Close popup" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a><h2 class="add_to_wishlist_popup_header" data-asw-org-font-size="24" style="font-size: 24px;"><i class="fa fa-star inline_icon"></i><span class="inline_icon_text" data-asw-org-font-size="24" style="font-size: 24px;">Added to your <a href="/people/wish_list" data-asw-org-font-size="24" style="font-size: 24px;">wish list</a>!</span></h2><div class="email_container" bis_skin_checked="1"><div class="item" bis_skin_checked="1"><div class="item_image_container" bis_skin_checked="1"><img title="" class="item_image" onerror="BONZ.handleBrokenImage(this, 1790588054, 'https://cucumoyang-cungkok.pages.dev/anekuan/lndk.png')" alt="" src="https://images-bucket.bonanzastatic.com/afu/images/53b4/b387/4406_15995606634/s-l960_thumb155_crop.jpg"></div><ul class="item_info_list"><li class="title" data-asw-org-font-size="14" style="font-size: 14px;"><a href="https://nscpolteksby.ac.id/akuntansi/" data-asw-org-font-size="14" style="font-size: 14px;">LANDAKTOTO ⚡ AGEN RESMI SLOT GACOR SERVER THAILAND & LOGIN SLOT777 RESMI GACOR ANTI RUNGKAD HARI INI</a></li><li data-asw-org-font-size="14" style="font-size: 14px;">1 in stock</li><li data-asw-org-font-size="14" style="font-size: 14px;">Price negotiable</li><li class="item_action_buttons" data-asw-org-font-size="14" style="font-size: 14px;"><a class="button_medium" href="/items/buy_now/1790588054" data-asw-org-font-size="13" style="font-size: 13px;">Make an offer</a></li></ul></div><div class="new_email_form ask_seller_a_question_form" bis_skin_checked="1"><div class="email_explanation explanation_message small_message" style="display: none;" bis_skin_checked="1"></div><div class="loading" bis_skin_checked="1"><i class="fa fa-spinner inline_icon fa-pulse fa-3x"></i></div><form class="new_email" action="/emails" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="u2MVIfvMz6EKb5CvmTx3BcW/S8mLA6GcoUAzm8N5fo2YB1RNvzn/RB4KobwBZ/NFWe9dbzPgu2hLjGtRSTKVDg=="><fieldset class="email_form_fieldset"><legend class="email_title">Contact the seller</legend><input value="Somebody emailed you about your &quot;LANDAKTOTO ⚡ AGEN RESMI SLOT GACOR SERVER THAILAND & LOGIN SLOT777 RESMI GACOR ANTI RUNGKAD HARI INI&quot;!" type="hidden" name="email[subject]"><input value="40526303" type="hidden" name="email[receiver_id]"><input value="1790588054" type="hidden" name="email[item_id]"><textarea rows="10" placeholder="Write your message here" aria-label="Write your message here" name="email[body]"></textarea><div class="togglable" bis_skin_checked="1"><ul class="emoji_picker"><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😃</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😀</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😆</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😍</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😉</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😛</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😞</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😮</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😎</li><li class="emoji_button" data-asw-org-font-size="24" style="font-size: 24px;">😇</li><li class="emoji_button bonus" data-asw-org-font-size="24" style="font-size: 24px;">😺</li></ul></div><div class="submit_container" bis_skin_checked="1"><input type="hidden" name="email_source" value="7"><input type="submit" name="commit" value="Send Your Message" class="email_send_button" data-disable-with="Send Your Message"></div></fieldset></form></div></div></div><div class="remind_me_later_form responsive_popup_container jqm-init" bis_skin_checked="1"><div class="popup_inner" bis_skin_checked="1"><a class="popup_close_control" href="javascript:void(0)" data-asw-org-font-size="14" style="font-size: 14px;"><img alt="Close popup" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a><h2 data-asw-org-font-size="24" style="font-size: 24px;">Get an item reminder</h2><p class="reminder_explanation" data-asw-org-font-size="14" style="font-size: 14px;"> We'll email you a link to your item now and follow up with a single reminder (if you'd like one). That's it! No spam, no hassle. </p><form action="/items/tag_as_remind_me_later/1790588054" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="u2MVIfvMz6EKb5CvmTx3BcW/S8mLA6GcoUAzm8N5fo2YB1RNvzn/RB4KobwBZ/NFWe9dbzPgu2hLjGtRSTKVDg=="><label for="remind_me_later_email_address">Your email address:</label><input class="validate[required,custom[email]] email_input" type="email" name="remind_me_later[email_address]" id="remind_me_later_email_address"><div class="reminder_delay_options" bis_skin_checked="1"><fieldset><legend>When would you like a reminder?</legend><input type="radio" value="1" name="remind_me_later[delay_interval]" id="remind_me_later_delay_interval_1"><label for="remind_me_later_delay_interval_1">1 day</label><input type="radio" value="3" checked="checked" name="remind_me_later[delay_interval]" id="remind_me_later_delay_interval_3"><label for="remind_me_later_delay_interval_3">3 days</label><input type="radio" value="7" name="remind_me_later[delay_interval]" id="remind_me_later_delay_interval_7"><label for="remind_me_later_delay_interval_7">7 days</label><input type="radio" value="0" name="remind_me_later[delay_interval]" id="remind_me_later_delay_interval_0"><label for="remind_me_later_delay_interval_0">never</label></fieldset></div><div class="reminder_email_confirm hidden" bis_skin_checked="1"><em id="reminder_email_confirm_label">Please make sure your email address is correct so we can get in touch with you.</em><input type="text" disabled="disabled" class="email_confirm_display" aria-labelledby="reminder_email_confirm_label"></div><button name="button" type="submit" class="reminder_submit">Create your item reminder</button></form><div class="reminder_sign_in" bis_skin_checked="1"> Already have an account? <a href="/items/sign_in_and_add_to_wishlist/1790588054" data-asw-org-font-size="14" style="font-size: 14px;">Log in and add this item to your wish list.</a></div></div></div>
         </div>
         <!-- content -->
         <!-- centerJustifiedDiv -->
@@ -2600,7 +2600,7 @@ h2 {
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }</style>
     <!-- site_wrapper -->
-    <!-- footer --><div id="footer" bis_skin_checked="1"><div class="footer_links" bis_skin_checked="1"><div class="wrapper" bis_skin_checked="1"><div class="footer_links_container" bis_skin_checked="1"><ul class="footer_links_menu"><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a href="/about_us" data-asw-org-font-size="13" style="font-size: 13px;">About</a></li><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a target="_blank" href="https://darwin.affiliatewindow.com/merchant-profile/6238" data-asw-org-font-size="13" style="font-size: 13px;">Affiliates</a></li><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a href="https://api.bonanza.com/" data-asw-org-font-size="13" style="font-size: 13px;">API</a></li><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a href="/blog/selling" data-asw-org-font-size="13" style="font-size: 13px;">Selling Blog</a> / <a href="$$##/" data-asw-org-font-size="13" style="font-size: 13px;">LANDAKTOTO</a></li><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a href="https://support.bonanza.com/hc/en-us/requests/new" data-asw-org-font-size="13" style="font-size: 13px;">Contact</a></li><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a href="https://support.bonanza.com/hc/en-us" data-asw-org-font-size="13" style="font-size: 13px;">Help</a></li>
+    <!-- footer --><div id="footer" bis_skin_checked="1"><div class="footer_links" bis_skin_checked="1"><div class="wrapper" bis_skin_checked="1"><div class="footer_links_container" bis_skin_checked="1"><ul class="footer_links_menu"><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a href="/about_us" data-asw-org-font-size="13" style="font-size: 13px;">About</a></li><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a target="_blank" href="https://darwin.affiliatewindow.com/merchant-profile/6238" data-asw-org-font-size="13" style="font-size: 13px;">Affiliates</a></li><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a href="https://api.bonanza.com/" data-asw-org-font-size="13" style="font-size: 13px;">API</a></li><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a href="/blog/selling" data-asw-org-font-size="13" style="font-size: 13px;">Selling Blog</a> / <a href="https://nscpolteksby.ac.id/akuntansi//" data-asw-org-font-size="13" style="font-size: 13px;">LANDAKTOTO</a></li><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a href="https://support.bonanza.com/hc/en-us/requests/new" data-asw-org-font-size="13" style="font-size: 13px;">Contact</a></li><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a href="https://support.bonanza.com/hc/en-us" data-asw-org-font-size="13" style="font-size: 13px;">Help</a></li>
               <!--        <li class="footer_links_menu_item"></li>--><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a href="/site_help/general/legal_content" data-asw-org-font-size="13" style="font-size: 13px;">Legal</a></li><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a href="/partners" data-asw-org-font-size="13" style="font-size: 13px;">Partners</a></li><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a href="/press" data-asw-org-font-size="13" style="font-size: 13px;">Press</a></li><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a href="/webstores" data-asw-org-font-size="13" style="font-size: 13px;">Webstores</a></li><li class="footer_links_menu_item" data-asw-org-font-size="13" style="font-size: 13px;"><a target="_blank" href="https://bcap.co/" data-asw-org-font-size="13" style="font-size: 13px;">bCapital</a></li>
             </ul></div><ul class="footer_links_social_media"><li class="footer_links_social_media_item" data-asw-org-font-size="14" style="font-size: 14px;"><a class="footer_social_media_icon" target="_blank" onclick="gtag('event', 'social_share', {action: 'Click-footer', medium: 'Facebook'});" onkeypress="gtag('event', 'social_share', {action: 'Click-footer', medium: 'Facebook'});" href="https://facebook.com/shop.bmarketplace" data-asw-org-font-size="14" style="font-size: 14px;"><img alt="Facebook" data-retina="true" src="https://assets.bonanza.com/images/global_icons/social_media/facebook.png"></a></li><li class="footer_links_social_media_item" data-asw-org-font-size="14" style="font-size: 14px;"><a class="footer_social_media_icon" target="_blank" onclick="gtag('event', 'social_share', {action: 'Click-footer', medium: 'Twitter'});" onkeypress="gtag('event', 'social_share', {action: 'Click-footer', medium: 'Twitter'});" href="https://twitter.com/LANDAKTOTO" data-asw-org-font-size="14" style="font-size: 14px;"><img alt="Twitter" data-retina="true" src="https://assets.bonanza.com/images/global_icons/social_media/twitter.png"></a></li><li class="footer_links_social_media_item" data-asw-org-font-size="14" style="font-size: 14px;"><a class="footer_social_media_icon" target="_blank" onclick="gtag('event', 'social_share', {action: 'Click-footer', medium: 'Pinterest'});" onkeypress="gtag('event', 'social_share', {action: 'Click-footer', medium: 'Pinterest'});" href="https://pinterest.com/LANDAKTOTO" data-asw-org-font-size="14" style="font-size: 14px;"><img alt="Pinterest" data-retina="true" src="https://assets.bonanza.com/images/global_icons/social_media/pinterest.png"></a></li><li class="footer_links_social_media_item" data-asw-org-font-size="14" style="font-size: 14px;"><a class="footer_social_media_icon" target="_blank" onclick="gtag('event', 'social_share', {action: 'Click-footer', medium: 'Instagram'});" onkeypress="gtag('event', 'social_share', {action: 'Click-footer', medium: 'Instagram'});" href="https://instagram.com/shop_bmarketplace" data-asw-org-font-size="14" style="font-size: 14px;"><img alt="Instagram" data-retina="true" src="https://assets.bonanza.com/images/global_icons/social_media/instagram.png"></a></li></ul></div></div><div class="footer_bottom" bis_skin_checked="1"><div class="wrapper" bis_skin_checked="1"><div class="utilities" bis_skin_checked="1"><a id="select_locale_link" class="locale flags-us" href="#set_local" data-asw-org-font-size="13" style="font-size: 13px;"> Indonesia / Indonesia Rupiah IDR </a><input type="hidden" name="click_track_page" id="click_track_page" value="false"><span class="accessibility_trigger" onclick="$('.asw-menu-btn').get(0).click()" data-asw-org-font-size="13" style="font-size: 13px;"><span class="sr-only" data-asw-org-font-size="13" style="font-size: 13px;">Click to activate accessibility preferences</span><i class="fa fa-universal-access inline_icon"></i><span data-asw-org-font-size="13" style="font-size: 13px;">Accessibility preferences</span></span></div><ul class="trust"><li data-asw-org-font-size="14" style="font-size: 14px;"><div class="footer_ssl_credential" bis_skin_checked="1"><span class="sr-only" data-asw-org-font-size="14" style="font-size: 14px;">SSL Secure Connection</span></div></li><li data-asw-org-font-size="14" style="font-size: 14px;"><a class="footer_bbb_credential" title="Bonanza.com, Internet Shopping, Seattle, WA" target="_blank" href="https://www.bbb.org/western-washington/business-reviews/internet-shopping/bonanzacom-in-seattle-wa-22476619#bbbseal" data-asw-org-font-size="14" style="font-size: 14px;"><img alt="Better Business Bureau Accredited Business" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a></li><li data-asw-org-font-size="14" style="font-size: 14px;"><a class="footer_paypal_credential" target="_blank" href="https://www.paypal.com/my/cgi-bin/webscr?cmd=xpt/Marketing/securitycenter/buy/Protection-outside" data-asw-org-font-size="14" style="font-size: 14px;"><img alt="PayPal Buyer Protection" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a></li></ul></div></div><ul class="footer_legal"><li data-asw-org-font-size="14" style="font-size: 14px;">© 2026 LANDAKTOTO. All Rights Reserved</li><li data-asw-org-font-size="14" style="font-size: 14px;"></script><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
       //<![CDATA[
